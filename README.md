@@ -27,5 +27,5 @@ Sentiment analysis on Reddit involves the automated detection and classification
 Generated Dataset by Web Scrapping
 
 ### References
-- [[https://kaggle.com/dataset1](https://kaggle.com/dataset1](https://github.com/cjhutto/vaderSentiment))
-- [[https://kaggle.com/dataset1](https://kaggle.com/dataset1](https://www.geeksforgeeks.org/scraping-reddit-using-python/)https://www.geeksforgeeks.org/scraping-reddit-using-python/)
+- [[https://kaggle.com/dataset1](https://github.com/cjhutto/vaderSentiment))
+- [[https://kaggle.com/dataset1](https://www.geeksforgeeks.org/scraping-reddit-using-python/)
